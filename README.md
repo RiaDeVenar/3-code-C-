@@ -11,6 +11,8 @@ int main()
     cin >> x;
     cout << "Enter y: ";
     cin >> y;
+    cout << "x: " << y << endl;
+    cout << "y: " << y << endl;
 
     return 0;
 }
